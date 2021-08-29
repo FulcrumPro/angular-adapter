@@ -1,4 +1,4 @@
-import { IDictionary, ScalarDictionary } from '@flatfile/adapter';
+import { IDictionary, ScalarDictionary } from '@fulcrumpro/adapter';
 
 export interface FlatfileSettings {
   /**

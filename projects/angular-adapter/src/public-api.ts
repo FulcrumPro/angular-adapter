@@ -7,7 +7,7 @@ import FlatfileImporter, {
   CustomerObject as FlatfileCustomer,
   FlatfileResults,
   IDataHookResponse,
-} from '@flatfile/adapter';
+} from '@fulcrumpro/adapter';
 
 export * from './lib/flatfile-adapter.module';
 export * from './lib/flatfile-button.component';

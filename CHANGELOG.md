@@ -5,14 +5,14 @@ Minor release to bump base adapter version to fix minor bug there.
 
 ### 1.2.8
 
-Fixed underlying `@flatfile/adapter` package to fix this packages ability to work with older versions of Angular (such as v8).
+Fixed underlying `@fulcrumpro/adapter` package to fix this packages ability to work with older versions of Angular (such as v8).
 
 ### 1.2.6
 
 Fix broken codesandbox link
 ### 1.2.4
 
-Update to use the latest `@flatfile/adapter` fixing build/compilation bugs for exports not publicly available, clean up default export usage, and redundant interfaces found in this package (using adapter base version now).
+Update to use the latest `@fulcrumpro/adapter` fixing build/compilation bugs for exports not publicly available, clean up default export usage, and redundant interfaces found in this package (using adapter base version now).
 
 ### 1.2.0
 

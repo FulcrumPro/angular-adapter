@@ -13,7 +13,7 @@ import FlatfileImporter, {
   CustomerObject as FlatfileCustomer,
   LoadOptionsObject,
   FlatfileResults,
-} from '@flatfile/adapter';
+} from '@fulcrumpro/adapter';
 
 import { RecordInitOrChangeCallback } from './interfaces/general';
 import { FlatfileSettings } from './interfaces/settings';

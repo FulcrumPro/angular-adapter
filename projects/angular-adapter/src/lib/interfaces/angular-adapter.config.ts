@@ -3,7 +3,7 @@ import {
   CustomerObject as FlatfileCustomer,
   FlatfileResults,
   IDictionary,
-} from '@flatfile/adapter';
+} from '@fulcrumpro/adapter';
 import { RecordInitOrChangeCallback } from './general';
 import { FlatfileSettings } from './settings';
 

@@ -3,7 +3,7 @@ import {
   IPrimitive,
   Nullable,
   ScalarDictionary,
-} from '@flatfile/adapter';
+} from '@fulcrumpro/adapter';
 
 export type ScalarDictionaryWithCustom = {
   $custom?: ScalarDictionary;
